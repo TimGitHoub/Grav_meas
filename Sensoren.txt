@@ -1,0 +1,45 @@
+**Pressure Types: https://www.avnet.com/wps/portal/abacus/solutions/technologies/sensors/pressure-sensors/measurement-types/ ****
+***Sensors: www.arrow.com***
+
+1.
+0-50mbar	https://www.mouser.de/ProductDetail/Amphenol-All-Sensors/ELVH-M050G-HRND-C-N2A4?qs=HBWAp0VN4RhGkEYOvRHHVw%3D%3D
+ELVH-M050G-HRND-C-N2A4
+Medium:?
+
+2.
+0-40mbar	https://www.mouser.de/ProductDetail/Honeywell/HSCDJJN040MG2A5?qs=YCa%2FAAYMW03av5OQRwdH8Q%3D%3D
+HSCDJJN040MG2A5
+12bit
+0,25% =>10Pa
+Dual Input 
+NUR GAS
+
+3. Bestellen!!!!
+0-6kPa		https://www.mouser.de/ProductDetail/Honeywell/ABP2DRNT006KG2A3XX?qs=pUKx8fyJudDkHtfErF%252BGdQ%3D%3D
+ABP2DRNT006KG2A3XX
+14bit
+0,25% =>15Pa
+0-50°C +/-1,5%Fehler
+*?  Was bedeutet 10%-90% of 2^24 counts?
+Medium: Fluid!
+
+4.
+0-50mbar https://www.amsys.de/downloads/data/ams4516-amsys-datasheet_d.pdf
+AMS 4516-0050-D
+14bit
+Fehler +/-1,5% FSS
+Nur ein Differenzdrucksensor?
+Medium: ?
+
+5.
+-2inH2O - 2inH2O https://www.mouser.de/ProductDetail/Honeywell/NSCDRRN002NDUNV?qs=%2Fha2pyFaduj2vKkEGVZSosv453Iqy5NFQ4bJYYf%2FAu1yXxFc2aF7siQehpFWxgDI
+NSCDRRN002NDUNV
+Analog Differenzdruckmesser
+Präzision 0,25%
+
+6.
+-2inH2O - 2inH2O  (2inH2O =500Pa) https://www.mouser.de/ProductDetail/Honeywell/HSCDRRN002NDAA3?qs=%2Frfn6KgHYYzwqj2LuXHWeQ%3D%3D
+HSCDRRN002NDAA3
+Digital Differenzdruckmesser
+Präzision 0,25%
+
